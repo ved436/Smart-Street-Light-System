@@ -71,6 +71,6 @@ The system uses an LDR sensor to detect day and night conditions and an HC-SR04 
 
 ## Author
 
-Ved Kale
-Electronics Engineering Student
-Walchand College of Engineering, Sangli
+- Ved Kale
+- Electronics Engineering Student
+- Walchand College of Engineering, Sangli
